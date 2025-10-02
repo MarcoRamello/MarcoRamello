@@ -1,16 +1,41 @@
-## Hi there 👋
+# Ciao, sono [Tuo Nome] 👋
 
-<!--
-**MarcoRamello/MarcoRamello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Specialista in Modernizzazione di Sistemi Software & Architetto di Automazione
 
-Here are some ideas to get you started:
+Sono uno sviluppatore software freelance con una passione per la costruzione di sistemi robusti, scalabili e manutenibili. La mia missione è aiutare le aziende a trasformare codice legacy e processi complessi in asset tecnologici moderni ed efficienti.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Cosa Faccio
+
+*   **Modernizzazione di Sistemi Legacy:** Analizzo, scompongo e re-ingegnerizzo applicazioni monolitiche (Java/Python) in architetture a microservizi performanti.
+*   **Architettura di Pipeline Dati & Automazione:** Progetto e implemento workflow di dati e processi di business automation affidabili, utilizzando strumenti come Apache Airflow.
+*   **Sviluppo di Tool e Librerie su Misura:** Creo strumenti e librerie interne per migliorare la produttività degli sviluppatori e la qualità del software.
+
+---
+
+### 🛠️ Il Mio Stack Tecnologico
+
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 🔧 I Miei Progetti Principali
+
+
+---
+
+### 📫 Contattami
+
+Sono sempre aperto a nuove collaborazioni e sfide interessanti.
+
+
+
