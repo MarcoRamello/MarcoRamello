@@ -29,13 +29,15 @@ Sono uno sviluppatore software freelance con una passione per la costruzione di 
 ---
 
 ### 🔧 I Miei Progetti Principali
-
+*  **[pykonfiguro] (https://github.com/MarcoRamello/Py_Konfiguro)** - Una libreria robusta per la configurazione e internazionalizazione delle applicazioni in python
 
 ---
 
 ### 📫 Contattami
 
 Sono sempre aperto a nuove collaborazioni e sfide interessanti.
+
+* **LinkedIn:** www.linkedin.com/in/marco-ramello-a6b466248
 
 
 
